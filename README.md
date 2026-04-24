@@ -19,7 +19,9 @@ Atualmente, complemento minha formação com estudos autodidatas, com laboratór
 
 ###
 
-<h2 align="left">Hello World!!</h2>
+###    **🐧 Linux -> Explorando o sistema, terminal e infraestrutura**
+
+Meu objetivo atual é aprofundar meus conhecimentos técnicos e **ingressar no mercado de trabalho**, onde eu possa aplicar o que aprendo em sala de aula e em cursos complementares.
 
 ###
 
@@ -28,15 +30,16 @@ Atualmente, complemento minha formação com estudos autodidatas, com laboratór
 
 <div align="left">
   <a href="https://www.linkedin.com/in/yago-freitas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  
 </div>
+
+### 💻 Linguagens e Tecnologias:
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux"   />
+  
 </div>
 
 
