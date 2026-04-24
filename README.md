@@ -10,10 +10,9 @@
 <h2 align="left">About me
   
 Sou estudante de Desenvolvimento de Sistemas no SENAI Armando de Arruda Pereira. 
-
 Tenho muito interesse pela área de Segurança da Informação e Programação (Front-end/Back-end). Busco oportunidades de aprendizado para transformar minha curiosidade em conhecimento técnico sólido na área.
-
 Atualmente, complemento minha formação com estudos autodidatas, com laboratórios práticos e projetos pessoais.
+
 </h2>
 
 ###
