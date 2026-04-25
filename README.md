@@ -1,15 +1,6 @@
 
-<h1 align="left">Hey 👋What's Up?</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=2D9CCD&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Yago." alt="Typing SVG" /></a>
 
-###
-
-<p align="left">My name is Yago Freitas and I'm a development student, from São Paulo, Brazil.</p>
-
-###
-
-<h2 align="left">About me
-
-</h2>
 
 ###
 
@@ -17,7 +8,16 @@
 Tenho muito interesse pela área de Segurança da Informação e Programação (Front-end/Back-end). Busco oportunidades de aprendizado para transformar minha curiosidade em conhecimento técnico sólido na área.
 Atualmente, complemento minha formação com estudos autodidatas, com laboratórios práticos e projetos pessoais.</p>
 
+
+
+<h2 align="left">Connect with me!</h2>
+
 ###
+  
+<div align="left">
+  <a href="https://www.linkedin.com/in/yago-freitas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></div>
+
+
 
 ###    **🐧 Linux -> Explorando o sistema, terminal e infraestrutura**
 
@@ -26,10 +26,6 @@ Meu objetivo atual é aprofundar meus conhecimentos técnicos e **ingressar no m
 ###
 
 
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/yago-freitas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
 </div>
 
